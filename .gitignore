@@ -29,3 +29,7 @@ index.css
 
 # environment config
 public/config/
+
+# Python cache
+__pycache__/
+*.pyc
